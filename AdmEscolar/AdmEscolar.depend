@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1509486988 source:r:\github\sistemaadministracaoescolar\admescolar\academico.c
+	"academico.h"
+
+1509497677 r:\github\sistemaadministracaoescolar\admescolar\academico.h
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+	"cargo.h"
+	"curso.h"
+	"diretor.h"
+	"disciplina.h"
+	"funcionario.h"
+	"horario.h"
+	"matricula.h"
+	"professor.h"
+	"turma.h"
+
+1509486988 source:r:\github\sistemaadministracaoescolar\admescolar\main.c
+	"academico.h"
+
+1509496234 r:\github\sistemaadministracaoescolar\admescolar\aluno.h
+
+1509497576 r:\github\sistemaadministracaoescolar\admescolar\cargo.h
+
+1509494906 r:\github\sistemaadministracaoescolar\admescolar\curso.h
+
+1509497321 r:\github\sistemaadministracaoescolar\admescolar\diretor.h
+
+1509496591 r:\github\sistemaadministracaoescolar\admescolar\disciplina.h
+
+1509497171 r:\github\sistemaadministracaoescolar\admescolar\funcionario.h
+
+1509496773 r:\github\sistemaadministracaoescolar\admescolar\horario.h
+
+1509495704 r:\github\sistemaadministracaoescolar\admescolar\matricula.h
+
+1509497774 r:\github\sistemaadministracaoescolar\admescolar\professor.h
+
+1509497799 r:\github\sistemaadministracaoescolar\admescolar\turma.h
+
+1509496288 source:r:\github\sistemaadministracaoescolar\admescolar\aluno.c
+	"aluno.h"
+
+1509497571 source:r:\github\sistemaadministracaoescolar\admescolar\cargo.c
+	"cargo.h"
+
+1509494349 source:r:\github\sistemaadministracaoescolar\admescolar\curso.c
+	"curso.h"
+
+1509497359 source:r:\github\sistemaadministracaoescolar\admescolar\diretor.c
+	"diretor.h"
+
+1509496384 source:r:\github\sistemaadministracaoescolar\admescolar\disciplina.c
+	"disciplina.h"
+
+1509497229 source:r:\github\sistemaadministracaoescolar\admescolar\funcionario.c
+	"funcionario.h"
+
+1509496678 source:r:\github\sistemaadministracaoescolar\admescolar\horario.c
+	"horario.h"
+
+1509495743 source:r:\github\sistemaadministracaoescolar\admescolar\matricula.c
+	"matricula.h"
+
+1509496846 source:r:\github\sistemaadministracaoescolar\admescolar\professor.c
+	"professor.h"
+
+1509495464 source:r:\github\sistemaadministracaoescolar\admescolar\turma.c
+	"turma.h"
+
