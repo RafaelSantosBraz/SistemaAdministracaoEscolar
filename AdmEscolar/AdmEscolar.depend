@@ -69,3 +69,75 @@
 1509495464 source:r:\github\sistemaadministracaoescolar\admescolar\turma.c
 	"turma.h"
 
+1509572353 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\academico.c
+	"academico.h"
+	<strings.h>
+
+1509571837 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\academico.h
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+	"cargo.h"
+	"curso.h"
+	"diretor.h"
+	"disciplina.h"
+	"funcionario.h"
+	"horario.h"
+	"matricula.h"
+	"professor.h"
+	"turma.h"
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\aluno.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\cargo.h
+
+1509571351 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\curso.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\diretor.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\disciplina.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\funcionario.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\horario.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\matricula.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\professor.h
+
+1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\turma.h
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\aluno.c
+	"aluno.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\cargo.c
+	"cargo.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\diretor.c
+	"diretor.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\disciplina.c
+	"disciplina.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\funcionario.c
+	"funcionario.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\horario.c
+	"horario.h"
+
+1509571252 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\main.c
+	"academico.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\matricula.c
+	"matricula.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\professor.c
+	"professor.h"
+
+1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\turma.c
+	"turma.h"
+
+1509570276 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\curso.c
+	"curso.h"
+	<string.h>
+
