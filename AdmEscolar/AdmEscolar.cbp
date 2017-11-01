@@ -35,9 +35,49 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="academico.h" />
+		<Unit filename="aluno.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aluno.h" />
+		<Unit filename="cargo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cargo.h" />
+		<Unit filename="curso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="curso.h" />
+		<Unit filename="diretor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="diretor.h" />
+		<Unit filename="disciplina.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="disciplina.h" />
+		<Unit filename="funcionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcionario.h" />
+		<Unit filename="horario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="horario.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="matricula.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matricula.h" />
+		<Unit filename="professor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="professor.h" />
+		<Unit filename="turma.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="turma.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
