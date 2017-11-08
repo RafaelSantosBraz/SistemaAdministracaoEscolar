@@ -141,7 +141,7 @@
 	"curso.h"
 	<string.h>
 
-1510182803 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.c
+1510184573 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.c
 	<stdio.h>
 	"academico.h"
 	<strings.h>
@@ -164,7 +164,7 @@
 
 1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/cargo.h
 
-1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/curso.h
+1510184627 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/curso.h
 
 1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/diretor.h
 
@@ -186,7 +186,8 @@
 1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/cargo.c
 	"cargo.h"
 
-1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/curso.c
+1510184747 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/curso.c
+	<stdio.h>
 	"curso.h"
 	<string.h>
 

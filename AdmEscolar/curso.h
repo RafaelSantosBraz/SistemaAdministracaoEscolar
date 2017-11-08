@@ -20,5 +20,6 @@ CURSO cursos[CURSOS_TAM];
 void inicializar_cursos();
 int inserir_curso(int, char*);
 void exibir_cursos();
+void salvar_cursos();
 
 #endif // CURSO_H_INCLUDED

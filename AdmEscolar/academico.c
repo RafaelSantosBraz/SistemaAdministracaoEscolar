@@ -38,6 +38,9 @@ void menu_academico()
                     break;
                 }
             case SAIR:
+                puts("Salvando cursos...");
+
+                salvar_cursos();
                 return;
         }
 
