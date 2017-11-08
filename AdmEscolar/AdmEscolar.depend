@@ -227,3 +227,82 @@
 
 1510173488 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\compat.h
 
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/academico.c
+	<stdio.h>
+	<strings.h>
+	"academico.h"
+	"compat.h"
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/academico.h
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+	"cargo.h"
+	"curso.h"
+	"diretor.h"
+	"disciplina.h"
+	"funcionario.h"
+	"horario.h"
+	"matricula.h"
+	"professor.h"
+	"turma.h"
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/aluno.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/cargo.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/curso.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/diretor.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/disciplina.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/funcionario.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/horario.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/matricula.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/professor.h
+
+1510155650 /tmp/SistemaAdministracaoEscolar/AdmEscolar/turma.h
+
+1510155708 /tmp/SistemaAdministracaoEscolar/AdmEscolar/compat.h
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/aluno.c
+	"aluno.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/cargo.c
+	"cargo.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/curso.c
+	<stdio.h>
+	"curso.h"
+	<string.h>
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/diretor.c
+	"diretor.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/disciplina.c
+	"disciplina.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/funcionario.c
+	"funcionario.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/horario.c
+	"horario.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/main.c
+	<stdio.h>
+	"academico.h"
+	"compat.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/matricula.c
+	"matricula.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/professor.c
+	"professor.h"
+
+1510155650 source:/tmp/SistemaAdministracaoEscolar/AdmEscolar/turma.c
+	"turma.h"
+
