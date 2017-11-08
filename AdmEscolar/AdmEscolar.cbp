@@ -43,6 +43,7 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="cargo.h" />
+		<Unit filename="compat.h" />
 		<Unit filename="curso.c">
 			<Option compilerVar="CC" />
 		</Unit>
