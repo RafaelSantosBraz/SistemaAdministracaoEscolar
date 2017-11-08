@@ -55,7 +55,7 @@ void exibir_cursos()
     {
         if (cursos[c].codigo != -1)
         {
-            printf("\tNome: %s; Duracao: %d\n", cursos[c].nome, cursos[c].duracao);
+            printf("\t[%d]Nome: %s; Duracao: %d\n", cursos[c].codigo, cursos[c].nome, cursos[c].duracao);
         }
     }
 }
