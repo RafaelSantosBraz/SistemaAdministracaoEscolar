@@ -141,3 +141,75 @@
 	"curso.h"
 	<string.h>
 
+1510162491 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.c
+	"academico.h"
+	<strings.h>
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.h
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+	"cargo.h"
+	"curso.h"
+	"diretor.h"
+	"disciplina.h"
+	"funcionario.h"
+	"horario.h"
+	"matricula.h"
+	"professor.h"
+	"turma.h"
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/aluno.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/cargo.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/curso.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/diretor.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/disciplina.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/funcionario.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/horario.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/matricula.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/professor.h
+
+1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/turma.h
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/aluno.c
+	"aluno.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/cargo.c
+	"cargo.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/curso.c
+	"curso.h"
+	<string.h>
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/diretor.c
+	"diretor.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/disciplina.c
+	"disciplina.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/funcionario.c
+	"funcionario.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/horario.c
+	"horario.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/main.c
+	"academico.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/matricula.c
+	"matricula.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/professor.c
+	"professor.h"
+
+1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/turma.c
+	"turma.h"
+
