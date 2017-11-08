@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "academico.h"
 
 #define ACADEMICO '0'
@@ -12,7 +13,7 @@ int main()
     printf("Selecione o modulo: ");
     char op;
     op = getchar();
-    fflush(stdin);
+    __fpurge(stdin);
     switch (op)
     {
         case ACADEMICO:

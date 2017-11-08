@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "academico.h"
 #include <strings.h>
 #define EXIBIR_CURSOS '0'
@@ -18,7 +19,7 @@ void menu_academico()
         printf("Selecione a funcao: ");
         char op;
         op = getchar();
-        fflush(stdin);
+        __fpurge(stdin);
         switch (op)
         {
             case EXIBIR_CURSOS:
@@ -31,6 +32,7 @@ void menu_academico()
                     fgets(buffer, NOME_TAM, stdin);
                     printf("Duracao do curso: ");
                     scanf("%d", &duracao);
+                    __fpurge(stdin);
                     inserir_curso(duracao, buffer);
                     memset(buffer, 0, 50);
                     break;
