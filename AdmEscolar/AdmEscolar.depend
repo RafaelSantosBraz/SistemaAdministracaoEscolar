@@ -141,10 +141,11 @@
 	"curso.h"
 	<string.h>
 
-1510184573 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.c
+1510155184 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.c
 	<stdio.h>
-	"academico.h"
 	<strings.h>
+	"academico.h"
+	"compat.h"
 
 1510159065 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/academico.h
 	<stdio.h>
@@ -203,9 +204,10 @@
 1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/horario.c
 	"horario.h"
 
-1510182728 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/main.c
+1510154934 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/main.c
 	<stdio.h>
 	"academico.h"
+	"compat.h"
 
 1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/matricula.c
 	"matricula.h"
@@ -215,4 +217,6 @@
 
 1510159065 source:/home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/turma.c
 	"turma.h"
+
+1510154436 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/compat.h
 
