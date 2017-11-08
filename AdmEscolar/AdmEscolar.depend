@@ -69,9 +69,11 @@
 1509495464 source:r:\github\sistemaadministracaoescolar\admescolar\turma.c
 	"turma.h"
 
-1509572353 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\academico.c
-	"academico.h"
+1510172071 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\academico.c
+	<stdio.h>
 	<strings.h>
+	"academico.h"
+	"compat.h"
 
 1509571837 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\academico.h
 	<stdio.h>
@@ -91,7 +93,7 @@
 
 1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\cargo.h
 
-1509571351 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\curso.h
+1510172071 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\curso.h
 
 1509567203 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\diretor.h
 
@@ -125,8 +127,10 @@
 1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\horario.c
 	"horario.h"
 
-1509571252 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\main.c
+1510172071 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\main.c
+	<stdio.h>
 	"academico.h"
+	"compat.h"
 
 1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\matricula.c
 	"matricula.h"
@@ -137,7 +141,8 @@
 1509567203 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\turma.c
 	"turma.h"
 
-1509570276 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\curso.c
+1510172071 source:c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\curso.c
+	<stdio.h>
 	"curso.h"
 	<string.h>
 
@@ -219,4 +224,6 @@
 	"turma.h"
 
 1510154436 /home/user/estrutura_de_dados/SistemaAdministracaoEscolar/AdmEscolar/compat.h
+
+1510173488 c:\users\a120121\desktop\sistemaadministracaoescolar\admescolar\compat.h
 
